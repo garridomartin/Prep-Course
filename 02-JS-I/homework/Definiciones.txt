@@ -1,0 +1,11 @@
+Variables: es una forma que tiene Javascript para almacenar en la memoria de la pc, "algo" para ser usado más tarde. Se define en el momento utilizando la palabra clave VAR, seguida de un espacio y el nombre de la variable en cuestion (ej. VAR nombre). Si a la variable se le agrega un "=", se le asigna un valor a la misma.
+
+Strings: son bloques de texto, y van siempre entre comillas.
+
+Funciones (argumentos, return): son tipos particulares de objetos, lo interesante de las funciones, es que ejecutan la acción que nosotros le pidamos.
+Ejemplo, la funcion "return" devuelve el resultado que yo le pida. Cuando vamos a definir una funcion, iniciamos siempre con el comando "funcion" seguido de un espacio, y el nombre de la funcion con sus variables entre parentesis.
+Por otro lado, los "argumento" de una función, serán las variables de la misma, y se pueden agregar los que deseemos, separados por comas.
+
+Declaraciones if: es un operador condicional. Es decir, defino que "si" se da cierta condición, la función debe devolverme un valor (eso seria algo verdadero). En caso que no se cumpla esa condicion, debo definir el valor si es falso, con el operador "else". De esa manera cubro los dos resultados (verdadero, o falso)
+
+Valores booleanos (true, false), esto, quedó definido en el item anterior.
