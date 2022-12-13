@@ -1,0 +1,5 @@
+for: es una expresion tipo "bucle" es decir, buscará un resultado hasta que se cumpla la condicion buscada. Si no se define puede iniciarse un proceso infinito. La sintaxis es: se inicia con la palabra clave "for" (sin comillas), seguido de un parentesis y luego abrir y cerrar llaves, donde iran las condiciones. Dentro del parentesis iran tres cosas: 1ro declarar la variable (variable sobre la que se desarrollara el bucle), 2do la expresion condicional, el ciclo se repetira hasta que esta condicion sea "false". 3ro la forma en que nuestra variable (definida en 1ro) cambiará. Cerrando la expreson con "console.log(variable)
+
+&&: es un operador logico (similar a los utilizados en lógica proposicional). Este corresponde al operador "y" ("and"). Evaluará dos expresiones y retornará TRUE, si ambas son verdaderas.
+||: es un operador logico (similar a los utilizados en lógica proposicional). Este corresponde al operador "o" ("or"). Evaluará dos expresiones y retornará TRUE, si al menos una de ambas son verdaderas y devolvera FALSE si ambas expresiones son falsas.
+!: es un operador de negacion, "not". Puesto delante de cualquier operador, significará lo contrario.
