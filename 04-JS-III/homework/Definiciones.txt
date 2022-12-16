@@ -1,0 +1,1 @@
+Array: es un tipo de dato, el cual posee dentro de sí, varios datos. Los datos que puede contener un Array son de cualquier tipo: pueden ser numeros, strings, incluso funciones (esta lista es no extensiva).
