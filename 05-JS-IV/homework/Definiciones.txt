@@ -1,0 +1,10 @@
+Objetos: los objetos son similares a las matrices (arrays) pero a diferencia de éstas, que tienen un índice numerico que inicia en "0", en los objetos se reemplaza cada indice por una clave. Por ejemplo, puedo definir el objeto Alumno y dentro de este las llaves (key value) Nombre y Apellido, edad, hobbies, materias cursando, etc. Los objetis se instancian usando llaves {}.
+
+Propiedades: se definen como los datos que conforman el objeto. Se componen de dos partes: la primera es el nombre de la propiedad (ej. "hobbies) luego de los dos puntos, viene la 2da parte de la propiedad que es el contenido o valor (para Hobbies : judo, aikido, ajedrez). Ambos componentes o "key:value" deben ser separados por una coma "," luego de ser definidos, para seguir enumerando otras propiedades. Cabe destacar que dentro de una propiedad puede usarse cualquier objeto (numero, string, funcion, etc).
+
+Métodos: son funciones guardadas dentro de un objeto. Se llama utilizando la notación de punto y perentesis al final ().
+
+Bucle for…in: se utiliza para iterar todos los elementos del objeto. Al no tener indice numerico JavaScript utiliza este bucle. La sintaxis comienza igual pero entre parentesis declararemos la variable, la palabra clave in y el nombre del objeto. De esta manera, recorreremos el objeto y finalizará cuando hayamos recorrido toda la clave.
+
+
+Notación de puntos vs notación de corchetes: para acceder a los elementos, podemos hacerlo con estas dos notaciones. Notacion de puntos: usamos el nombre del objeto, un punto y seguido de la clave. Esto nos devolverá el valor de la clave. En la notacion de corchetes, pondremos el nombre del objeto y la clave entre corchetes, resptetando el tipo de clave que sea (ej. si es un string, irá entre comillas).
